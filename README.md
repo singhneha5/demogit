@@ -1,2 +1,2 @@
 # demogit
-learning git
+happy to learn git.
